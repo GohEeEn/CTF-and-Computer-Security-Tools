@@ -4,8 +4,8 @@ List of tools that I have learn and use for [Capture-The-Flags (CTFs)](https://d
 
 ## DISCLAIMER : Some of the tools below could damage personal and public properties, which may leads to illegal activities (especially in Network & Web sections). Thus, only educational and legally-permitted use
 
-> The difference of white-hat and black-hat is only their ethicity and legality <br/>
-> &#45; Unknown
+> **The difference of white-hat and black-hat is only their ethicity and legality** <br/>
+> **&#45; Unknown**
 
 Educational & permitted platforms I have been practising on :
 
@@ -79,7 +79,7 @@ Educational & permitted platforms I have been practising on :
 | 5.  | aircrack-ng | <https://www.aircrack-ng.org/>      | Tool for WiFi network security                                                                                                                                                                                |
 | 6.  | OWASP Amass | <https://github.com/OWASP/Amass>    | A network mapping tool by attacking surfaces and external asset discovery using open source information gathering and active reconnaissance techniques                                                        |
 
-## Stegonography
+## Steganography
 
 ### Images
 
@@ -92,7 +92,7 @@ Educational & permitted platforms I have been practising on :
 | 5.  | Pngcheck     | <http://www.libpng.org/pub/png/apps/pngcheck.html> |                                                                                                   |
 | 6.  | Foremost     | <https://github.com/korczis/foremost>              | A console program to recover files based on their headers, footers, and internal data structures. |
 
-### Audio Forensics
+### Audio
 
 | No. | Tool             | Homepage                           | Description |
 | --- | ---------------- | ---------------------------------- | ----------- |
