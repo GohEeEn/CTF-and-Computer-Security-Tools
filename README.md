@@ -61,6 +61,8 @@ Educational & permitted platforms I have been practising on :
 | 6.  | Cutter    | <https://cutter.re/>                                           | GUI version of radare2, written in Python             |
 | 7.  | Hopper    | <https://www.hopperapp.com/>                                   | Analyse IPA files, ie. iOS application files          |
 | 8.  | plistutil | <https://github.com/libimobiledevice/libplist>                 | C library to handle Apple .plist files in XML format. |
+| 9.  | dex2jar   | <https://github.com/pxb1988/dex2jar>                           | Tools to work with android .dex and java .class files |
+| 10. | jd-gui    | <https://java-decompiler.github.io/>                           | A Java decompiler with GUI, worked with JAR files     |
 
 ## Web
 
