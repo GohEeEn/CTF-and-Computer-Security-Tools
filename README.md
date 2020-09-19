@@ -1,6 +1,6 @@
 # CTF-and-Computer-Security-Tools
 
-List of tools that I have learn and use for [Capture-The-Flags (CTFs)](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04) & Computer Security Learning
+List of tools & libraries that I have learn and use for [Capture-The-Flags (CTFs)](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04) & Computer Security Learning
 
 ## DISCLAIMER : Some of the tools below could damage personal and public properties, which may leads to illegal activities (especially in Network & Web sections). Thus, only educational and legally-permitted use
 
@@ -51,15 +51,16 @@ Educational & permitted platforms I have been practising on :
 
 ## Reverse Engineering
 
-| No. | Tool    | Homepage                                                       | Description                                  |
-| --- | ------- | -------------------------------------------------------------- | -------------------------------------------- |
-| 1.  | Ghidra  | <https://ghidra-sre.org/>                                      | Written in Java & C++, JDK v11+ required     |
-| 2.  | GDB     | <http://www.gnu.org/software/gdb/download/>                    |                                              |
-| 3.  | IDA Pro | <https://www.hex-rays.com/products/ida/support/download.shtml> | Multi-purpose, payment required              |
-| 4.  | radare2 | <http://www.radare.org/y/?p=download>                          | Unix-like RE framework * CLI                 |
-| 5.  | Apktool | <https://ibotpeaches.github.io/Apktool/>                       | Andriod RE apk files                         |
-| 6.  | Cutter  | <https://cutter.re/>                                           | GUI version of radare2, written in Python    |
-| 7.  | Hopper  | <https://www.hopperapp.com/>                                   | Analyse IPA files, ie. iOS application files |
+| No. | Tool      | Homepage                                                       | Description                                           |
+| --- | --------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+| 1.  | Ghidra    | <https://ghidra-sre.org/>                                      | Written in Java & C++, JDK v11+ required              |
+| 2.  | GDB       | <http://www.gnu.org/software/gdb/download/>                    |                                                       |
+| 3.  | IDA Pro   | <https://www.hex-rays.com/products/ida/support/download.shtml> | Multi-purpose, payment required                       |
+| 4.  | radare2   | <http://www.radare.org/y/?p=download>                          | Unix-like RE framework * CLI                          |
+| 5.  | Apktool   | <https://ibotpeaches.github.io/Apktool/>                       | Andriod RE apk files                                  |
+| 6.  | Cutter    | <https://cutter.re/>                                           | GUI version of radare2, written in Python             |
+| 7.  | Hopper    | <https://www.hopperapp.com/>                                   | Analyse IPA files, ie. iOS application files          |
+| 8.  | plistutil | <https://github.com/libimobiledevice/libplist>                 | C library to handle Apple .plist files in XML format. |
 
 ## Web
 
