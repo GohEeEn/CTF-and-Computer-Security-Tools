@@ -51,18 +51,21 @@ Educational & permitted platforms I have been practising on :
 
 ## Reverse Engineering
 
-| No. | Tool      | Homepage                                                       | Description                                           |
-| --- | --------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-| 1.  | Ghidra    | <https://ghidra-sre.org/>                                      | Written in Java & C++, JDK v11+ required              |
-| 2.  | GDB       | <http://www.gnu.org/software/gdb/download/>                    |                                                       |
-| 3.  | IDA Pro   | <https://www.hex-rays.com/products/ida/support/download.shtml> | Multi-purpose, payment required                       |
-| 4.  | radare2   | <http://www.radare.org/y/?p=download>                          | Unix-like RE framework * CLI                          |
-| 5.  | Apktool   | <https://ibotpeaches.github.io/Apktool/>                       | Andriod RE apk files                                  |
-| 6.  | Cutter    | <https://cutter.re/>                                           | GUI version of radare2, written in Python             |
-| 7.  | Hopper    | <https://www.hopperapp.com/>                                   | Analyse IPA files, ie. iOS application files          |
-| 8.  | plistutil | <https://github.com/libimobiledevice/libplist>                 | C library to handle Apple .plist files in XML format. |
-| 9.  | dex2jar   | <https://github.com/pxb1988/dex2jar>                           | Tools to work with android .dex and java .class files |
-| 10. | jd-gui    | <https://java-decompiler.github.io/>                           | A Java decompiler with GUI, worked with JAR files     |
+| No. | Tool      | Homepage                                                       | Description                                            |
+| --- | --------- | -------------------------------------------------------------- | ------------------------------------------------------ |
+| 1.  | Ghidra    | <https://ghidra-sre.org/>                                      | Written in Java & C++, JDK v11+ required               |
+| 2.  | GDB       | <http://www.gnu.org/software/gdb/download/>                    |                                                        |
+| 3.  | IDA Pro   | <https://www.hex-rays.com/products/ida/support/download.shtml> | Multi-purpose, payment required                        |
+| 4.  | radare2   | <http://www.radare.org/y/?p=download>                          | Unix-like RE framework * CLI                           |
+| 5.  | Apktool   | <https://ibotpeaches.github.io/Apktool/>                       | Andriod RE apk files                                   |
+| 6.  | Cutter    | <https://cutter.re/>                                           | GUI version of radare2, written in Python              |
+| 7.  | Hopper    | <https://www.hopperapp.com/>                                   | Analyse IPA files, ie. iOS application files           |
+| 8.  | plistutil | <https://github.com/libimobiledevice/libplist>                 | C library to handle Apple .plist files in XML format.  |
+| 9.  | dex2jar   | <https://github.com/pxb1988/dex2jar>                           | Tools to work with android .dex and java .class files  |
+| 10. | jd-gui    | <https://java-decompiler.github.io/>                           | A Java decompiler with GUI, worked with JAR files      |
+| 11. | cycript   | <http://www.cycript.org/>                                      | JS framework to RE iOS & Mac OS X applications         |
+| 12. | unc0ver   | <https://unc0ver.dev/>                                         | One of the most advance jailbreak tool for iOS devices |
+| 13. | Cydia     | <https://cydia-app.com/>                                       | Unofficial iPhone appstore with jailbreak resources    |
 
 ## Web
 
