@@ -134,3 +134,11 @@ Educational & permitted platforms I have been practising on :
 | 5.  | cycript         | <http://www.cycript.org/>                                  | JS framework to RE iOS & Mac OS X applications         |
 | 6.  | unc0ver         | <https://unc0ver.dev/>                                     | One of the most advance jailbreak tool for iOS devices |
 | 7.  | Cydia           | <https://cydia-app.com/>                                   | Unofficial iPhone appstore with jailbreak resources    |
+
+## Vulnerable VMs for exploitation practices
+
+| No. | Virtual Machine         | Homepage                                               | Description                                                                          |
+| --- | ----------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| 1.  | OWASP Security Shepherd | <https://owasp.org/www-project-security-shepherd/>     | Web and mobile application security training platform, to improve security awareness |
+| 2.  | Damn Vulnerable Web App | <https://github.com/digininja/DVWA>                    | A PHP/MySQL web application that is designed to be damn vulnerable                   |
+| 3.  | Metaspoitable 2         | <https://docs.rapid7.com/metasploit/metasploitable-2/> | A secure test environment to perform penetration testing & research with Metaspoit   |
