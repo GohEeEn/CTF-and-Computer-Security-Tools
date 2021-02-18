@@ -142,3 +142,4 @@ Educational & permitted platforms I have been practising on :
 | 1.  | OWASP Security Shepherd | <https://owasp.org/www-project-security-shepherd/>     | Web and mobile application security training platform, to improve security awareness |
 | 2.  | Damn Vulnerable Web App | <https://github.com/digininja/DVWA>                    | A PHP/MySQL web application that is designed to be damn vulnerable                   |
 | 3.  | Metaspoitable 2         | <https://docs.rapid7.com/metasploit/metasploitable-2/> | A secure test environment to perform penetration testing & research with Metaspoit   |
+| 4.  | OWASP WebGoat           | <https://github.com/WebGoat/WebGoat>                   | A designated insecure Java Spring Boot web application to introduce OWASP Top 10     |
