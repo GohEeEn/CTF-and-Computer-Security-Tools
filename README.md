@@ -13,6 +13,7 @@ Educational & permitted platforms I have been practising on :
 - [HackTheBox](https://www.hackthebox.eu/)
 - [VulnHub](https://www.vulnhub.com/)
 - [Hacker101](https://www.hacker101.com/)
+- [Cryptohack](https://cryptohack.org/)
 - And Capture-The-Flag competitions (Checkout their **rules** before using)
 
 ## Cryptography
@@ -116,12 +117,14 @@ Educational & permitted platforms I have been practising on :
 
 ## Recon
 
-| No. | Tool      | Homepage                                       | Description                                                  |
-| --- | --------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| 1.  | Nmap      | <https://nmap.org/>                            | Used to get website information by sending designated packet |
-| 2.  | sublist3r | <https://github.com/aboul3la/Sublist3r>        | Finding subdirectories of a website                          |
-| 3.  | Gobuster  | <https://github.com/OJ/gobuster>               | Directory bruteforcing (Recommended)                         |
-| 4.  | dirb      | <https://tools.kali.org/web-applications/dirb> | Directory bruteforcing                                       |
+| No. | Tool       | Homepage                                            | Description                                                                          |
+| --- | ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1.  | Nmap       | <https://nmap.org/>                                 | Used to get website information by sending designated packet                         |
+| 2.  | sublist3r  | <https://github.com/aboul3la/Sublist3r>             | Finding subdirectories of a website                                                  |
+| 3.  | Gobuster   | <https://github.com/OJ/gobuster>                    | Directory bruteforcing (Recommended)                                                 |
+| 4.  | dirb       | <https://tools.kali.org/web-applications/dirb>      | Directory bruteforcing                                                               |
+| 5.  | Dirbuster  | <https://tools.kali.org/web-applications/dirbuster> | Java-based GUI for directory enumeration                                             |
+| 6.  | Wappalyzer | <https://www.wappalyzer.com/lookup/>                | Browser extension that can reveal the technology stack used by any website instantly |
 
 ## Malware Analysis
 
